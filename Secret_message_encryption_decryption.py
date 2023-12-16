@@ -1,3 +1,6 @@
+#The image used is https://drive.google.com/file/d/1i8_s_JZmxuLJP8a9zzRMx8j9IY8Jn5I2/view?usp=drive_link
+#The encryption and decryption key is 1234
+
 from tkinter import *
 from tkinter import messagebox
 import base64
